@@ -1,8 +1,8 @@
 # Hello there 🧔 <a href="#"><img src="https://cdn3.emoji.gg/emojis/6991_blue_lightsaber.png" width="30px" height="30px" alt="blue_lightsaber"></a>
 
-**`Web Developer`**
+**`Developer`**
 
-I'm a young developer eager to create and learn new things every day. The big question front-end or back-end, and since I like to create things, see them come to life, and see how all the parts come together, I would like to focus my future carrer into the full-stack developer path. 
+I'm Juan Jose a young developer eager to create and learn new things every day. The big question front-end or back-end, and since I like to create things, see them come to life, and see how all the parts come together, I would like to focus my future carrer into the full-stack developer path. 
 
 ---
 ### ⚒ Languages and Tools
@@ -14,13 +14,15 @@ I'm a young developer eager to create and learn new things every day. The big qu
 <img align="left" alt=".NetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br />
 
 #
-<!--
-### 🦾 Strengths
-<a href="https://emoji.gg/emoji/1640-do-not-disturb"><img src="https://cdn3.emoji.gg/emojis/1640-do-not-disturb.gif" width="64px" height="64px" alt="Do_Not_Disturb"></a>
-⚠️🚧🔜
 
+### 🔭 Work in progress...
+
+<a href="https://emoji.gg/emoji/1640-do-not-disturb"><img src="https://cdn3.emoji.gg/emojis/1640-do-not-disturb.gif" width="80px" height="80px" alt="Do_Not_Disturb"></a>
+<!--
 **jjguzme/jjguzme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
