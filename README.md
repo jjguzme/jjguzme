@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F75704&width=435&lines=Hello+there!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=F75704&width=435&lines=Hello+there!" alt="Hello there!" /></a>
 </p>
 
 I'm Juan Jose a young developer eager to create and learn new things every day. The big question front-end or back-end, and since I like to create things, see them come to life, and see how all the parts come together, I would like to focus my future carrer into the full-stack developer path. 
